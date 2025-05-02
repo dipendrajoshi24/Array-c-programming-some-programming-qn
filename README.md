@@ -1,16 +1,12 @@
-Array Programs in C
-
-Author: Dipendra Joshi
+# Array Programs in C
 
 Introduction
 
 This repository contains various programs in C that demonstrate the use of arrays. These programs cover different operations such as searching, sorting, and manipulation of arrays.
 
-Prerequisites
+# Prerequisites
 
 Basic understanding of C programming language
-
-GCC compiler (or any other C compiler) installed on your system
 
 Programs Included
 
@@ -55,14 +51,6 @@ Merging two sorted arrays
 Rotating an array
 
 Finding the largest and smallest elements
-
-How to Run
-
-Clone the repository:
-
-Compile the program using GCC:
-
-Run the compiled program:
 
 Contributions
 
