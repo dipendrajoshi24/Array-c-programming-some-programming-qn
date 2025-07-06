@@ -51,6 +51,6 @@ Rotating an array
 
 ## Finding the largest and smallest elements
 
-Contributions
+# Contributions
 
 Contributions are welcome! Feel free to submit pull requests to improve the programs or add new ones.
