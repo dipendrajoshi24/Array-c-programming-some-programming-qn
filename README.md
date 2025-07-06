@@ -49,7 +49,7 @@ Merging two sorted arrays
 
 Rotating an array
 
-Finding the largest and smallest elements
+## Finding the largest and smallest elements
 
 Contributions
 
