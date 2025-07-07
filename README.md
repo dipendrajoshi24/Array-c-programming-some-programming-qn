@@ -1,5 +1,5 @@
 # Array Programs in C
-Introduction
+# Introduction
 
 This repository contains various programs in C that demonstrate the use of arrays. These programs cover different operations such as searching, sorting, and manipulation of arrays.
 
