@@ -4,7 +4,6 @@
 This repository contains various programs in C that demonstrate the use of arrays. These programs cover different operations such as searching, sorting, and manipulation of arrays.
 
 # Prerequisites
-
 * Basic understanding of C programming language
 
 Programs Included
