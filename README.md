@@ -4,7 +4,7 @@ This repository contains various programs in C that demonstrate the use of array
 
 # Prerequisites
 
- Basic understanding of C programming language
+Basic understanding of C programming language
 
 Programs Included
 Basic Array Operations
