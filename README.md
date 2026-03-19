@@ -1,5 +1,7 @@
 # Array Programs in C
+
 # Introduction
+
 This repository contains various programs in C that demonstrate the use of arrays. These programs cover different operations such as searching, sorting, and manipulation of arrays.
 
 # Prerequisites
@@ -31,4 +33,5 @@ Rotating an array
 # Finding the largest and smallest elements
 
 # Contributions
+
 Contributions are welcome! Feel free to submit pull requests to improve the programs or add new ones.
